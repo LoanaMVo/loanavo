@@ -1,4 +1,4 @@
-# Loana Vo - Porfolio
+# Loana Vo - Portfolio
 
 This Contains all projects done by me!
 From coding in Java and Python to AutoDesk Inventor projects!
