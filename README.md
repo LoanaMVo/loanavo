@@ -15,4 +15,3 @@ Class of 2022
 
 * **Loana Vo**
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
