@@ -1,5 +1,5 @@
 # loanavo
-Loana Vo \n
+<\n>Loana Vo<\n> 
 B.S Engineering
 McMaster University
 Class of 2022
